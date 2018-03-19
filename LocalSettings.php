@@ -1316,6 +1316,7 @@ $wgConf->settings = array(
 		'viagroupiawiki' => true,
 		'wikapediawiki' => true,
 		'wisdomwikiwiki' => true,
+		'yokaiwatchwiki' => true,
 	),
 	'wmgUseCollapsibleVector' => array(
 		'default' => false,
@@ -2936,6 +2937,7 @@ $wgConf->settings = array(
 		'test1wiki' => true,
 		'eotewiki' => true,
 		'takethatwikiwiki' => true,
+		'yokaiwatchwiki' => true,
 	),
 	'wmgUseWebChat' => array(
 		'default' => false,
@@ -3107,6 +3109,7 @@ $wgConf->settings = array(
 		'wishwiki' => true,
 		'worldpediawiki' => true,
 		'yacresourceswiki' => true,
+		'yokaiwatchwiki' => true,
 		'youtauwiki' => true,
 	),
 
